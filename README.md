@@ -3,7 +3,7 @@ Headless Browsers
 
 ### A list of (almost) all headless web browsers in existence
 
-* [PhantomJS](http://phantomjs.org/)
+* [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
 * [CasperJS](http://casperjs.org/)
 * [Zombie.js](http://zombie.labnotes.org/)
 * [Lotte](https://github.com/StanAngeloff/lotte)
