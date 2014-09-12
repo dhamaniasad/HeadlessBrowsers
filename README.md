@@ -1,4 +1,36 @@
-HeadlessBrowsers
+Headless Browsers
 ================
 
-A list of (almost) all headless web browsers in existence
+### A list of (almost) all headless web browsers in existence
+
+* [PhantomJS](http://phantomjs.org/)
+* [CasperJS](http://casperjs.org/)
+* [Zombie.js](http://zombie.labnotes.org/)
+* [Lotte](https://github.com/StanAngeloff/lotte)
+* [Ghostbuster](https://github.com/joshbuddy/ghostbuster)
+* [HeadlessBrowser](https://github.com/clubajax/HeadlessBrowser)
+* [browser.rb](https://github.com/tmp8/browser-rb)
+* [Selenium](http://seleniumhq.org)
+* [SlimerJS](http://slimerjs.org/)
+* [trifleJS](http://triflejs.org/)
+* [DalekJS](http://dalekjs.com/)
+* [HtmlUnit](http://htmlunit.sourceforge.net/)
+* [ghost.py](http://jeanphix.me/Ghost.py/)
+* [twill](http://twill.idyll.org/)
+* [Awesomium](http://www.awesomium.com/)
+* [SimpleBrowser](https://github.com/axefrog/SimpleBrowser)
+* [Envjs](http://www.envjs.com/)
+* [Watir-WebDriver](http://watirwebdriver.com/)
+* [Spynner](https://github.com/makinacorpus/spynner)
+* [WatiN](http://watin.org/)
+* [Crowbar](http://simile.mit.edu/wiki/Crowbar)
+* [BrowserKit](https://github.com/symfony/BrowserKit)
+* [SST](http://testutils.org/sst/)
+* [stanislaw](https://github.com/teddziuba/stanislaw)
+* [Jabba-Webkit](https://github.com/jabbalaci/Jabba-Webkit)
+* [Jaunt](http://jaunt-api.com/)
+* [Geb](http://www.gebish.org/)
+* [Jasmine-Headless-Webkit](http://johnbintz.github.io/jasmine-headless-webkit/)
+* [phantompy](https://github.com/niwibe/phantompy)
+* [Python-Webkit](http://www.gnu.org/software/pythonwebkit/)
+* [Splinter](http://splinter.cobrateam.info/)
