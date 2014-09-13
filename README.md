@@ -36,3 +36,9 @@ Headless Browsers
 to Webkit's DOM
 * [Splinter](http://splinter.cobrateam.info/) - Splinter is an open source tool for testing web applications using Python. It lets you automate browser actions, such as visiting URLs and interacting with their items.
 * [Browserjet](https://github.com/briankircho/browserjet) - Headless webkit browser with node.js interface.
+* [Headless](https://github.com/roryprimrose/Headless) - Headless browser support for fast web acceptance testing in .Net
+* [browser-launcher](https://github.com/substack/browser-launcher) - detect and launch browser versions, headlessly or otherwise
+* [headless_browser](https://github.com/alexandernst/headless_browser) - Headless browser based on WebKit written in C++.
+* [Guillotine](https://github.com/yetanotherchris/Guillotine) - A .NET headless browser, written in C#.
+* [benv](https://github.com/artsy/benv) - Stub a browser environment in node.js and headlessly test your client-side code.
+* [grope](https://github.com/youpy/grope) - A non-GUI library to represent browser environment using WebKit Framework + RubyCocoa
