@@ -35,3 +35,4 @@ Headless Browsers
 * [Python-Webkit](http://www.gnu.org/software/pythonwebkit/) - Python-Webkit is a python extension to Webkit to add full, complete access
 to Webkit's DOM
 * [Splinter](http://splinter.cobrateam.info/) - Splinter is an open source tool for testing web applications using Python. It lets you automate browser actions, such as visiting URLs and interacting with their items.
+* [Browserjet](https://github.com/briankircho/browserjet) - Headless webkit browser with node.js interface.
