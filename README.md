@@ -42,3 +42,6 @@ to Webkit's DOM
 * [Guillotine](https://github.com/yetanotherchris/Guillotine) - A .NET headless browser, written in C#.
 * [benv](https://github.com/artsy/benv) - Stub a browser environment in node.js and headlessly test your client-side code.
 * [grope](https://github.com/youpy/grope) - A non-GUI library to represent browser environment using WebKit Framework + RubyCocoa
+* [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
+* [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
+* [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
