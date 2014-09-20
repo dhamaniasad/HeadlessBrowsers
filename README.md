@@ -45,3 +45,4 @@ to Webkit's DOM
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
 * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
 * [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
+* [jedi-crawler](https://github.com/spacenick/jedi-crawler) - Lightsabing Node/PhantomJS crawler; scrape dynamic content : without the hassle
