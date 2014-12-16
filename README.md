@@ -46,7 +46,4 @@ to Webkit's DOM
 * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
 * [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
 * [jedi-crawler](https://github.com/spacenick/jedi-crawler) - Lightsabing Node/PhantomJS crawler; scrape dynamic content : without the hassle
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dhamaniasad/headlessbrowsers/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+* [Splash](https://github.com/scrapinghub/splash) - Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python using Twisted and QT.
