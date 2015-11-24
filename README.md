@@ -48,3 +48,4 @@ Headless Browsers
 |[jedi-crawler](https://github.com/spacenick/jedi-crawler)|Lightsabing Node/PhantomJS crawler; scrape dynamic content : without the hassle|JavaScript|
 |[Splash](https://github.com/scrapinghub/splash)|Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python using Twisted and QT.|Any|
 |[Nightmare](http://www.nightmarejs.org/)|Nightmare is a high-level browser automation library built as an easier alternative to PhantomJS.|JavaScript|
+|[Erik](https://github.com/phimage/Erik)|Headless browser on top of Kanna and WebKit.|Swift|
