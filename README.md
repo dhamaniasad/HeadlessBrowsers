@@ -49,3 +49,4 @@ Headless Browsers
 |[Splash](https://github.com/scrapinghub/splash)|Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python using Twisted and QT.|Any|
 |[Nightmare](http://www.nightmarejs.org/)|Nightmare is a high-level browser automation library built as an easier alternative to PhantomJS.|JavaScript|
 |[Erik](https://github.com/phimage/Erik)|Headless browser on top of Kanna and WebKit.|Swift|
+|[WKZombie](https://github.com/mkoehnke/WKZombie)|Functional headless browser (with JSON support) for iOS using WebKit and hpple/libxml2.|Swift|
