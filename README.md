@@ -1,7 +1,7 @@
 Headless Browsers
 ================
 
-### A list of (almost) all headless enweb browsers in existence
+### A list of (almost) all headless web browsers in existence
 
 | Name  | About  | Supported Languages |
 | :------------ |:---------------| :-----|
