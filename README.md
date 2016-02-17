@@ -1,7 +1,7 @@
 Headless Browsers
 ================
 
-### A list of (almost) all headless web browsers in existence
+### A list of (almost) all headless enweb browsers in existence
 
 | Name  | About  | Supported Languages |
 | :------------ |:---------------| :-----|
@@ -21,7 +21,6 @@ Headless Browsers
 |[twill](http://twill.idyll.org/)|twill is a simple language that allows users to browse the Web from a command-line interface.|Python|
 |[Awesomium](http://www.awesomium.com/)|Chromium-based headless browser engine|C++, .NET|
 |[SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser)|A flexible and intuitive web browser engine designed for automation tasks. Built on the .Net 4 framework.|.NET|
-|[Envjs](http://www.envjs.com/)|Envjs is a simulated browser environment written in javascript.|JavaScript|
 |[Watir-WebDriver](http://watirwebdriver.com/)|The most elegant way to use Selenium WebDriver with ruby.|Ruby|
 |[Spynner](https://github.com/makinacorpus/spynner)|Programmatic web browsing module with AJAX support for Python|Python|
 |[WatiN](http://watin.org/)|Web Application Testing In .Net|.NET|
