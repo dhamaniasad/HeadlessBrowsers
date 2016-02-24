@@ -13,6 +13,7 @@ Headless Browsers
 |[HeadlessBrowser](https://github.com/clubajax/HeadlessBrowser)|A very miniature headless browser, for testing the DOM on Node.js|JavaScript|
 |[browser.rb](https://github.com/tmp8/browser-rb)|Headless Ruby browser on top of Nokogiri and TheRubyRacer|Ruby|
 |[Selenium](http://seleniumhq.org)|Selenium is a suite of tools to automate web browsers across many platforms.|JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R|
+|[jBrowserDriver](https://github.com/machinepublishers/jbrowserdriver)|A Selenium-compatible headless browser which is written in pure Java. WebKit-based. Works with any of the Selenium Server bindings.|Java|
 |[SlimerJS](http://slimerjs.org/)|SlimerJS is similar to PhantomJs, except that it runs Gecko, the browser engine of Mozilla Firefox, instead of Webkit (And it is not yet truly headless).|JavaScript|
 |[trifleJS](http://triflejs.org/)|A headless Internet Explorer browser using the .NET WebBrowser Class with a Javascript API running on the V8 engine.|JavaScript|
 |[DalekJS](http://dalekjs.com/)|Automated cross browser testing with JavaScript.|JavaScript|
