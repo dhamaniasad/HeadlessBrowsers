@@ -3,6 +3,8 @@ Headless Browsers
 
 ### A list of (almost) all headless web browsers in existence
 
+*A web browser without a graphical user interface, controlled programmatically. Used for automation, testing, and other purposes.*
+
 Name  | About  | Supported Languages
 :------------ |:---------------| :-----
 |[Awesomium](http://www.awesomium.com/) | Chromium-based headless browser engine|C++, .NET|
