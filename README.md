@@ -51,4 +51,5 @@ Name  | About  | Supported Languages
 |[WatiN](http://watin.org/) | Web Application Testing In .Net|.NET|
 |[Watir-WebDriver](http://watirwebdriver.com/) | The most elegant way to use Selenium WebDriver with ruby.|Ruby|
 |[WKZombie](https://github.com/mkoehnke/WKZombie) | Functional headless browser (with JSON support) for iOS using WebKit and hpple/libxml2.|Swift|
+|[X-RAY](https://github.com/lapwinglabs/x-ray) | Supports strings, arrays, arrays of objects, nested object structures, selector API, pagination, crawler, concurrency, throttles, delays, timeouts, and pluggable drivers (PhantomJS, HTTP)|JavaScript|
 |[Zombie.js](http://zombie.js.org/) | Zombie.js is a lightweight framework for testing client-side JavaScript code in a simulated environment. No browser required.    | JavaScript   |
