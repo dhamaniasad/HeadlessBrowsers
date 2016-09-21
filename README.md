@@ -20,7 +20,6 @@ Name  | About  | Supported Languages
 |[ghost.py](http://jeanphix.me/Ghost.py/) | ghost.py is a webkit web client written in python.|Python|
 |[Ghostbuster](https://github.com/joshbuddy/ghostbuster) | Automated browser testing via phantom.js, with all of the pain taken out! That means you get a real browser, with a real DOM, and can do real testing!|JavaScript|
 |[grope](https://github.com/youpy/grope) | A non-GUI library to represent browser environment using WebKit Framework + RubyCocoa|Ruby|
-|[Guillotine](https://github.com/yetanotherchris/Guillotine) | A .NET headless browser, written in C#.|.NET|
 |[Headless](https://github.com/roryprimrose/Headless) | Headless browser support for fast web acceptance testing in .Net|.NET|
 |[headless_browser](https://github.com/alexandernst/headless_browser) | Headless browser based on WebKit written in C++.|C++|
 |[HeadlessBrowser](https://github.com/clubajax/HeadlessBrowser) | A very miniature headless browser, for testing the DOM on Node.js|JavaScript|
