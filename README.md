@@ -33,22 +33,22 @@ Name  | About  | Supported Languages | License
 |[MechanicalSoup](https://github.com/hickford/MechanicalSoup) | A Python library for automating interaction with websites.|Python| MIT |
 |[mechanize](http://wwwsearch.sourceforge.net/mechanize/) | Stateful programmatic web browsing.|Python| Not specified |
 |[Nightmare](http://www.nightmarejs.org/) | Nightmare is a high-level browser automation library built as an easier alternative to PhantomJS.|JavaScript| MIT |
-|[PhantomJS](http://phantomjs.org/) | PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG. | JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R(via [Selenium](http://docs.seleniumhq.org/about/platforms.jsp#programming-languages))  |
-|[phantompy](https://github.com/niwinz/phantompy) | Phantompy is a headless WebKit engine with powerful pythonic api build on top of Qt5 Webkit|Python|
-|[Python-Webkit](http://www.gnu.org/software/pythonwebkit/) | Python-Webkit is a python extension to Webkit to add full, complete access to Webkit's DOM|Python|
-|[RoboBrowser](https://github.com/jmcarp/robobrowser) | A simple, Pythonic library for browsing the web without a standalone web browser.|Python|
-|[Selenium](http://seleniumhq.org) | Selenium is a suite of tools to automate web browsers across many platforms.|JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R|
-|[SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) | A flexible and intuitive web browser engine designed for automation tasks. Built on the .Net 4 framework.|.NET|
-|[SlimerJS](http://slimerjs.org/) | SlimerJS is similar to PhantomJs, except that it runs Gecko, the browser engine of Mozilla Firefox, instead of Webkit (And it is not yet truly headless).|JavaScript|
-|[Splash](https://github.com/scrapinghub/splash) | Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python using Twisted and QT.|Any|
-|[Splinter](http://splinter.cobrateam.info/) | Splinter is an open source tool for testing web applications using Python. It lets you automate browser actions, such as visiting URLs and interacting with their items.|Python|
-|[Spynner](https://github.com/makinacorpus/spynner) | Programmatic web browsing module with AJAX support for Python|Python|
-|[SST](http://testutils.org/sst/) | SST (selenium-simple-test) is a web test framework that uses Python to generate functional browser-based tests.|Python|
-|[stanislaw](https://github.com/teddziuba/stanislaw) | Python headless browser testing|Python|
-|[trifleJS](http://triflejs.org/) | A headless Internet Explorer browser using the .NET WebBrowser Class with a Javascript API running on the V8 engine.|JavaScript|
-|[twill](http://twill.idyll.org/) | Twill is a simple language that allows users to browse the Web from a command-line interface.|Python|
-|[WatiN](http://watin.org/) | Web Application Testing In .Net|.NET|
-|[Watir](https://watir.com/) | The most elegant way to use Selenium WebDriver with ruby.|Ruby|
-|[WKZombie](https://github.com/mkoehnke/WKZombie) | Functional headless browser (with JSON support) for iOS using WebKit and hpple/libxml2.|Swift|
-|[X-RAY](https://github.com/lapwinglabs/x-ray) | Supports strings, arrays, arrays of objects, nested object structures, selector API, pagination, crawler, concurrency, throttles, delays, timeouts, and pluggable drivers (PhantomJS, HTTP)|JavaScript|
-|[Zombie.js](http://zombie.js.org/) | Zombie.js is a lightweight framework for testing client-side JavaScript code in a simulated environment. No browser required.    | JavaScript   |
+|[PhantomJS](http://phantomjs.org/) | PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG. | JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R(via [Selenium](http://docs.seleniumhq.org/about/platforms.jsp#programming-languages))  | BSD-3 Clause |
+|[phantompy](https://github.com/niwinz/phantompy) | Phantompy is a headless WebKit engine with powerful pythonic api build on top of Qt5 Webkit|Python| LGPL-2.1 |
+|[Python-Webkit](http://www.gnu.org/software/pythonwebkit/) | Python-Webkit is a python extension to Webkit to add full, complete access to Webkit's DOM|Python| GNU |
+|[RoboBrowser](https://github.com/jmcarp/robobrowser) | A simple, Pythonic library for browsing the web without a standalone web browser.|Python| BSD-3 clause |
+|[Selenium](http://seleniumhq.org) | Selenium is a suite of tools to automate web browsers across many platforms.|JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R| Apache |
+|[SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) | A flexible and intuitive web browser engine designed for automation tasks. Built on the .Net 4 framework.|.NET| BSD-3 Clause |
+|[SlimerJS](http://slimerjs.org/) | SlimerJS is similar to PhantomJs, except that it runs Gecko, the browser engine of Mozilla Firefox, instead of Webkit (And it is not yet truly headless).|JavaScript| Mozilla 2.0 |
+|[Splash](https://github.com/scrapinghub/splash) | Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python using Twisted and QT.|Any| BSD-3 Clause |
+|[Splinter](http://splinter.cobrateam.info/) | Splinter is an open source tool for testing web applications using Python. It lets you automate browser actions, such as visiting URLs and interacting with their items.|Python| - |
+|[Spynner](https://github.com/makinacorpus/spynner) | Programmatic web browsing module with AJAX support for Python|Python| Not specified |
+|[SST](http://testutils.org/sst/) | SST (selenium-simple-test) is a web test framework that uses Python to generate functional browser-based tests.|Python| - |
+|[stanislaw](https://github.com/teddziuba/stanislaw) | Python headless browser testing|Python| Not specified |
+|[trifleJS](http://triflejs.org/) | A headless Internet Explorer browser using the .NET WebBrowser Class with a Javascript API running on the V8 engine.|JavaScript| MIT |
+|[twill](http://twill.idyll.org/) | Twill is a simple language that allows users to browse the Web from a command-line interface.|Python| MIT |
+|[WatiN](http://watin.org/) | Web Application Testing In .Net|.NET| Apache 2.0 |
+|[Watir](https://watir.com/) | The most elegant way to use Selenium WebDriver with ruby.|Ruby| MIT |
+|[WKZombie](https://github.com/mkoehnke/WKZombie) | Functional headless browser (with JSON support) for iOS using WebKit and hpple/libxml2.|Swift| MIT |
+|[X-RAY](https://github.com/lapwinglabs/x-ray) | Supports strings, arrays, arrays of objects, nested object structures, selector API, pagination, crawler, concurrency, throttles, delays, timeouts, and pluggable drivers (PhantomJS, HTTP)|JavaScript| MIT |
+|[Zombie.js](http://zombie.js.org/) | Zombie.js is a lightweight framework for testing client-side JavaScript code in a simulated environment. No browser required.    | JavaScript   | MIT |
