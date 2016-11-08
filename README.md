@@ -5,14 +5,14 @@ Headless Browsers
 
 *A web browser without a graphical user interface, controlled programmatically. Used for automation, testing, and other purposes.*
 
-Name  | About  | Supported Languages
-:------------ |:---------------| :-----
-|[Awesomium](http://www.awesomium.com/) | Chromium-based headless browser engine|C++, .NET|
-|[benv](https://github.com/artsy/benv) | Stub a browser environment in node.js and headlessly test your client-side code.|JavaScript|
-|[browser-launcher](https://github.com/substack/browser-launcher) | Detect and launch browser versions, headlessly or otherwise|JavaScript|
-|[browser.rb](https://github.com/tmp8/browser-rb) | Headless Ruby browser on top of Nokogiri and TheRubyRacer|Ruby|
-|[Browserjet](https://github.com/briankircho/browserjet) | Headless webkit browser with node.js interface.|JavaScript|
-|[BrowserKit](https://github.com/symfony/browser-kit) | BrowserKit simulates the behavior of a web browser.|PHP|
+Name  | About  | Supported Languages | License
+:------------ |:---------------| :----- | :-----------
+|[Awesomium](http://www.awesomium.com/) | Chromium-based headless browser engine|C++, .NET| Free/Commerical |
+|[benv](https://github.com/artsy/benv) | Stub a browser environment in node.js and headlessly test your client-side code.|JavaScript| MIT |
+|[browser-launcher](https://github.com/substack/browser-launcher) | Detect and launch browser versions, headlessly or otherwise|JavaScript| MIT |
+|[browser.rb](https://github.com/tmp8/browser-rb) | Headless Ruby browser on top of Nokogiri and TheRubyRacer|Ruby| Not specified |
+|[Browserjet](https://github.com/briankircho/browserjet) | Headless webkit browser with node.js interface.|JavaScript| Not specified |
+|[BrowserKit](https://github.com/symfony/browser-kit) | BrowserKit simulates the behavior of a web browser.|PHP| MIT |
 |[CasperJS](http://casperjs.org/) | CasperJS is an open source navigation scripting & testing utility written in Javascript for the PhantomJS WebKit headless browser and SlimerJS (Gecko).        |   JavaScript |
 |[DalekJS](http://dalekjs.com/) | Automated cross browser testing with JavaScript.|JavaScript|
 |[Erik](https://github.com/phimage/Erik) | Headless browser on top of Kanna and WebKit.|Swift|
