@@ -49,7 +49,7 @@ Name  | About  | Supported Languages | License
 |[twill](http://twill.idyll.org/) | Twill is a simple language that allows users to browse the Web from a command-line interface.|Python| MIT |
 |[WatiN](http://watin.org/) | Web Application Testing In .Net|.NET| Apache 2.0 |
 |[Watir](https://watir.com/) | The most elegant way to use Selenium WebDriver with ruby.|Ruby| MIT |
-|[Webloop](https://github.com/sourcegraph/webloop) | Scriptable, headless WebKit with a Go API. | Go | BSD |
+|[Webloop](https://github.com/sourcegraph/webloop) | Scriptable, headless WebKit with a Go API. | Go | BSD-3 Clause |
 |[WKZombie](https://github.com/mkoehnke/WKZombie) | Functional headless browser (with JSON support) for iOS using WebKit and hpple/libxml2.|Swift| MIT |
 |[X-RAY](https://github.com/lapwinglabs/x-ray) | Supports strings, arrays, arrays of objects, nested object structures, selector API, pagination, crawler, concurrency, throttles, delays, timeouts, and pluggable drivers (PhantomJS, HTTP)|JavaScript| MIT |
 |[Zombie.js](http://zombie.js.org/) | Zombie.js is a lightweight framework for testing client-side JavaScript code in a simulated environment. No browser required.    | JavaScript   | MIT |
