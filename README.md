@@ -23,6 +23,7 @@ Name  | About  | Supported Languages | License
 |[grope](https://github.com/youpy/grope) | A non-GUI library to represent browser environment using WebKit Framework + RubyCocoa|Ruby| MIT |
 |[Headless](https://github.com/roryprimrose/Headless) | Headless browser support for fast web acceptance testing in .Net|.NET| MIT |
 |[headless_browser](https://github.com/alexandernst/headless_browser) | Headless browser based on WebKit written in C++.|C++| Not Specified |
+|[Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) | Headless Chromium is a library for running Chromium in a headless/server environment.|C++| Not Specified |
 |[HeadlessBrowser](https://github.com/clubajax/HeadlessBrowser) | A very miniature headless browser, for testing the DOM on Node.js|JavaScript| Not specified |
 |[HtmlUnit](http://htmlunit.sourceforge.net/) | HtmlUnit is a "GUI-Less browser for Java programs".|Java| Apache |
 |[Jabba-Webkit](https://github.com/jabbalaci/Jabba-Webkit) | Jabba's headless webkit browser for scraping AJAX-powered webpages.|Python| Not specified |
