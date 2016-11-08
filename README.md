@@ -14,6 +14,7 @@ Name  | About  | Supported Languages | License
 |[Browserjet](https://github.com/briankircho/browserjet) | Headless webkit browser with node.js interface.|JavaScript| Not specified |
 |[BrowserKit](https://github.com/symfony/browser-kit) | BrowserKit simulates the behavior of a web browser.|PHP| MIT |
 |[CasperJS](http://casperjs.org/) | CasperJS is an open source navigation scripting & testing utility written in Javascript for the PhantomJS WebKit headless browser and SlimerJS (Gecko).        |   JavaScript | MIT |
+|[Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef) |CEF is a open source project based on the Google Chromium project.        |   JavaScript | BSD |
 |[DalekJS](http://dalekjs.com/) | Automated cross browser testing with JavaScript.|JavaScript| MIT |
 |[Erik](https://github.com/phimage/Erik) | Headless browser on top of Kanna and WebKit.|Swift| MIT |
 |[Geb](http://www.gebish.org/) | Geb is a browser automation solution.|Groovy| Apache |
