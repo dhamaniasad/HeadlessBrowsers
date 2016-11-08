@@ -31,7 +31,7 @@ Name  | About  | Supported Languages | License
 |[jedi-crawler](https://github.com/spacenick/jedi-crawler) | Lightsabing Node/PhantomJS crawler; scrape dynamic content : without the hassle|JavaScript| Not specified |
 |[Lotte](https://github.com/StanAngeloff/lotte)| Lotte is a headless, automated testing framework built on top of PhantomJS and inspired by Ghostbuster. | JavaScript | MIT |
 |[MechanicalSoup](https://github.com/hickford/MechanicalSoup) | A Python library for automating interaction with websites.|Python| MIT |
-|[mechanize](http://wwwsearch.sourceforge.net/mechanize/) | Stateful programmatic web browsing.|Python| Not specified |
+|[mechanize](http://wwwsearch.sourceforge.net/mechanize/) | Stateful programmatic web browsing.|Python| BSD-3 clause, ZPL 2.1 |
 |[Nightmare](http://www.nightmarejs.org/) | Nightmare is a high-level browser automation library built as an easier alternative to PhantomJS.|JavaScript| MIT |
 |[PhantomJS](http://phantomjs.org/) | PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG. | JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R(via [Selenium](http://docs.seleniumhq.org/about/platforms.jsp#programming-languages))  | BSD-3 Clause |
 |[phantompy](https://github.com/niwinz/phantompy) | Phantompy is a headless WebKit engine with powerful pythonic api build on top of Qt5 Webkit|Python| LGPL-2.1 |
