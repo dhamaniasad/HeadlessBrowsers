@@ -43,6 +43,7 @@ Name  | About  | Supported Languages | License
 |[Selenium](http://seleniumhq.org) | Selenium is a suite of tools to automate web browsers across many platforms.|JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R| Apache |
 |[SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) | A flexible and intuitive web browser engine designed for automation tasks. Built on the .Net 4 framework.|.NET| BSD-3 Clause |
 |[SlimerJS](http://slimerjs.org/) | SlimerJS is similar to PhantomJs, except that it runs Gecko, the browser engine of Mozilla Firefox, instead of Webkit (And it is not yet truly headless).|JavaScript| Mozilla 2.0 |
+|[SpecterJS](https://github.com/andyjansson/specterjs) | A scriptable headless Internet Explorer port of PhantomJS. | JavaScript | MIT |
 |[Splash](https://github.com/scrapinghub/splash) | Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python using Twisted and QT.|Any| BSD-3 Clause |
 |[Splinter](http://splinter.cobrateam.info/) | Splinter is an open source tool for testing web applications using Python. It lets you automate browser actions, such as visiting URLs and interacting with their items.|Python| - |
 |[Spynner](https://github.com/makinacorpus/spynner) | Programmatic web browsing module with AJAX support for Python|Python| Not specified |
