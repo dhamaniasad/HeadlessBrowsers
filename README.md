@@ -52,6 +52,7 @@ Name  | About  | Supported Languages | License
 |[WatiN](http://watin.org/) | Web Application Testing In .Net|.NET| Apache 2.0 |
 |[Watir](https://watir.com/) | The most elegant way to use Selenium WebDriver with ruby.|Ruby| MIT |
 |[Webloop](https://github.com/sourcegraph/webloop) | Scriptable, headless WebKit with a Go API. | Go | BSD-3 Clause |
+|[wkhtmltopdf](http://wkhtmltopdf.org/) wkhtmltox wkhtmltoimage | Command line tool rendering HTML into PDF and other image formats. | shell, C | LGPLv3 |
 |[WKZombie](https://github.com/mkoehnke/WKZombie) | Functional headless browser (with JSON support) for iOS using WebKit and hpple/libxml2.|Swift| MIT |
 |[WWW::Mechanize](https://metacpan.org/search?size=20&q=WWW%3A%3AMechanize&search_type=modules) |  Headless browser for Perl with many plugins and extensions, notably Test::WWW:Mechanize for testing | Perl | Perl 5 |
 |[X-RAY](https://github.com/lapwinglabs/x-ray) | Supports strings, arrays, arrays of objects, nested object structures, selector API, pagination, crawler, concurrency, throttles, delays, timeouts, and pluggable drivers (PhantomJS, HTTP)|JavaScript| MIT |
