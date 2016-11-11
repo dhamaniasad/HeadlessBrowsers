@@ -7,6 +7,7 @@ Headless Browsers
 
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
+|[AngleSharp](https://github.com/AngleSharp/AngleSharp) | .Net Http Parsing Library | .NET | MIT |
 |[Awesomium](http://www.awesomium.com/) | Chromium-based headless browser engine|C++, .NET| Free/Commercial |
 |[benv](https://github.com/artsy/benv) | Stub a browser environment in node.js and headlessly test your client-side code.|JavaScript| MIT |
 |[browser-launcher](https://github.com/substack/browser-launcher) | Detect and launch browser versions, headlessly or otherwise|JavaScript| MIT |
