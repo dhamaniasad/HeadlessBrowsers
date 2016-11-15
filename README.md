@@ -43,8 +43,8 @@ Name  | About  | Supported Languages | License
 |[X-RAY](https://github.com/lapwinglabs/x-ray) | Supports strings, arrays, arrays of objects, nested object structures, selector API, pagination, crawler, concurrency, throttles, delays, timeouts, and pluggable drivers (PhantomJS, HTTP)|JavaScript| MIT |
 
 ## Fake Browser Engine
-Name  | About  | Supported Languages | License
-:------------ |:---------------| :----- | :-----------
+|Name  | About  | Supported Languages | License
+|:------------ |:---------------| :----- | :-----------
 |[AngleSharp](https://github.com/AngleSharp/AngleSharp) | .Net Http Parsing Library | .NET | MIT |
 |[benv](https://github.com/artsy/benv) | Stub a browser environment in node.js and headlessly test your client-side code.|JavaScript| MIT |
 |[browser.rb](https://github.com/tmp8/browser-rb) | Headless Ruby browser on top of Nokogiri and TheRubyRacer|Ruby| Not specified |
@@ -55,6 +55,7 @@ Name  | About  | Supported Languages | License
 |[HeadlessBrowser](https://github.com/clubajax/HeadlessBrowser) | A very miniature headless browser, for testing the DOM on Node.js|JavaScript| Not specified |
 |[HtmlUnit](http://htmlunit.sourceforge.net/) | HtmlUnit is a "GUI-Less browser for Java programs".|Java| Apache |
 |[Jaunt](http://jaunt-api.com/) | Java Web Scraping & Automation API|Java| Not specified |
+|[JSDom](https://github.com/tmpvar/jsdom) | A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js. |JavaScript| MIT |
 |[MechanicalSoup](https://github.com/hickford/MechanicalSoup) | A Python library for automating interaction with websites.|Python| MIT |
 |[mechanize](http://wwwsearch.sourceforge.net/mechanize/) | Stateful programmatic web browsing.|Python| BSD-3 clause, ZPL 2.1 |
 |[RoboBrowser](https://github.com/jmcarp/robobrowser) | A simple, Pythonic library for browsing the web without a standalone web browser.|Python| BSD-3 clause |
