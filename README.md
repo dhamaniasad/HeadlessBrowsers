@@ -99,6 +99,7 @@ Name  | About  | Supported Languages | License
 |[JSDom](https://github.com/tmpvar/jsdom) | A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js. |JavaScript| MIT |
 |[MechanicalSoup](https://github.com/hickford/MechanicalSoup) | A Python library for automating interaction with websites.|Python| MIT |
 |[mechanize](http://wwwsearch.sourceforge.net/mechanize/) | Stateful programmatic web browsing.|Python| BSD-3 clause, ZPL 2.1 |
+|[node-as-browser](https://github.com/seebigs/node-as-browser) | Create a browser-like environment within Node.js |JavaScript| MIT |
 |[RoboBrowser](https://github.com/jmcarp/robobrowser) | A simple, Pythonic library for browsing the web without a standalone web browser.|Python| BSD-3 clause |
 |[SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) | A flexible and intuitive web browser engine designed for automation tasks. Built on the .Net 4 framework.|.NET| BSD-3 Clause |
 |[stanislaw](https://github.com/teddziuba/stanislaw) | Naive, mechanize-like HTML parser/form driver.|Python| Not specified |
