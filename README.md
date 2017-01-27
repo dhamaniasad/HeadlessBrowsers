@@ -105,6 +105,8 @@ Name  | About  | Supported Languages | License
 |[stanislaw](https://github.com/teddziuba/stanislaw) | Naive, mechanize-like HTML parser/form driver.|Python| Not specified |
 |[twill](http://twill.idyll.org/) | Twill is a simple language that interacts with basic HTML pages (no JavaScript support).|Python| MIT |
 |[WWW::Mechanize](https://metacpan.org/search?size=20&q=WWW%3A%3AMechanize&search_type=modules) |  Headless browser for Perl with many plugins and extensions, notably Test::WWW:Mechanize for testing | Perl | Perl 5 |
+|[X-RAY](https://github.com/lapwinglabs/x-ray) | Supports strings, arrays, arrays of objects, nested object structures, selector API, pagination, crawler, concurrency, throttles, delays, timeouts, and pluggable drivers (PhantomJS, HTTP)|JavaScript| MIT |
+|[Xidel (Internet Tools)](http://www.videlibri.de/xidel.html) | An XQuery-based cli web scraper for static X/HTML pages and JSON-APIs. |FreePascal, XQuery| GPL-2|
 |[Zombie.js](http://zombie.js.org/) | Zombie.js is a lightweight framework for testing client-side JavaScript code in a simulated environment. No browser required.    | JavaScript   | MIT |
 
 ## Runs in a browser
