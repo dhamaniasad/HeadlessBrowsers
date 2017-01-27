@@ -42,6 +42,7 @@ Name  | About  | Supported Languages | License
 |[Nightmare](http://www.nightmarejs.org/) | Nightmare is a high-level browser automation library built as an easier alternative to PhantomJS.|JavaScript| MIT |
 |[phantompy](https://github.com/niwinz/phantompy) | Phantompy is a headless WebKit engine with powerful pythonic api build on top of Qt5 Webkit|Python| LGPL-2.1 |
 |[X-RAY](https://github.com/lapwinglabs/x-ray) | Supports strings, arrays, arrays of objects, nested object structures, selector API, pagination, crawler, concurrency, throttles, delays, timeouts, and pluggable drivers (PhantomJS, HTTP)|JavaScript| MIT |
+|[Horseman](http://www.horsemanjs.org/) | Promise based Node.js module for PhantomJS. Features chainable API, understandable control-flow, support for multiple tabs, and built-in jQuery.|JavaScript| MIT |
 
 ## Chromium drivers
 
