@@ -67,6 +67,7 @@ Name  | About  | Supported Languages | License
 |[Python-Webkit](http://www.gnu.org/software/pythonwebkit/) | Python-Webkit is a python extension to Webkit to add full, complete access to Webkit's DOM|Python| GNU |
 |[Spynner](https://github.com/makinacorpus/spynner) | Programmatic web browsing module with AJAX support for Python|Python| Not specified |
 |[Webloop](https://github.com/sourcegraph/webloop) | Scriptable, headless WebKit with a Go API. | Go | BSD-3 Clause |
+|[wkhtmltopdf](http://wkhtmltopdf.org/) wkhtmltox wkhtmltoimage | Command line tool rendering HTML into PDF and other image formats. | shell, C | LGPLv3 |
 |[WKZombie](https://github.com/mkoehnke/WKZombie) | Functional headless browser (with JSON support) for iOS using WebKit and hpple/libxml2.|Swift| MIT |
 
 ## Other drivers
