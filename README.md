@@ -105,6 +105,7 @@ Name  | About  | Supported Languages | License
 |[SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) | A flexible and intuitive web browser engine designed for automation tasks. Built on the .Net 4 framework.|.NET| BSD-3 Clause |
 |[stanislaw](https://github.com/teddziuba/stanislaw) | Naive, mechanize-like HTML parser/form driver.|Python| Not specified |
 |[twill](http://twill.idyll.org/) | Twill is a simple language that interacts with basic HTML pages (no JavaScript support).|Python| MIT |
+|[WeasyPrint](http://weasyprint.org/) | WeasyPrint is a visual rendering engine for HTML and CSS that can export to PDF. It aims to support web standards for printing.|Python| BSD-3 clause |
 |[WWW::Mechanize](https://metacpan.org/search?size=20&q=WWW%3A%3AMechanize&search_type=modules) |  Headless browser for Perl with many plugins and extensions, notably Test::WWW:Mechanize for testing | Perl | Perl 5 |
 |[X-RAY](https://github.com/lapwinglabs/x-ray) | Supports strings, arrays, arrays of objects, nested object structures, selector API, pagination, crawler, concurrency, throttles, delays, timeouts, and pluggable drivers (PhantomJS, HTTP)|JavaScript| MIT |
 |[Xidel (Internet Tools)](http://www.videlibri.de/xidel.html) | An XQuery-based cli web scraper for static X/HTML pages and JSON-APIs. |FreePascal, XQuery| GPL-2|
