@@ -14,8 +14,8 @@ Name  | About  | Supported Languages | License
 |[Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef) |CEF is a open source project based on the Google Chromium project.        |   JavaScript | BSD |
 |[Erik](https://github.com/phimage/Erik) | Headless browser on top of Kanna and WebKit.|Swift| MIT |
 |[jBrowserDriver](https://github.com/machinepublishers/jbrowserdriver) | A Selenium-compatible headless browser which is written in pure Java. WebKit-based. Works with any of the Selenium Server bindings.|Java| Not specified |
-|[PhantomJS](http://phantomjs.org/) | PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG. | JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R(via [Selenium](http://docs.seleniumhq.org/about/platforms.jsp#programming-languages))  | BSD-3 Clause |
-|[Splash](https://github.com/scrapinghub/splash) | Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python using Twisted and QT.|Any| BSD-3 Clause |
+|[PhantomJS](http://phantomjs.org/) | PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG. | JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R(via [Selenium](http://docs.seleniumhq.org/about/platforms.jsp#programming-languages))  | BSD 3-Clause |
+|[Splash](https://github.com/scrapinghub/splash) | Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python using Twisted and QT.|Any| BSD 3-Clause |
 
 ## Multi drivers
 
@@ -66,7 +66,7 @@ Name  | About  | Supported Languages | License
 |[Jasmine-Headless-Webkit](http://johnbintz.github.io/jasmine-headless-webkit/) | jasmine-headless-webkit uses the QtWebKit widget to run your specs without needing to render a pixel.|Python, JavaScript, Ruby| Free |
 |[Python-Webkit](http://www.gnu.org/software/pythonwebkit/) | Python-Webkit is a python extension to Webkit to add full, complete access to Webkit's DOM|Python| GNU |
 |[Spynner](https://github.com/makinacorpus/spynner) | Programmatic web browsing module with AJAX support for Python|Python| Not specified |
-|[Webloop](https://github.com/sourcegraph/webloop) | Scriptable, headless WebKit with a Go API. | Go | BSD-3 Clause |
+|[Webloop](https://github.com/sourcegraph/webloop) | Scriptable, headless WebKit with a Go API. | Go | BSD 3-Clause |
 |[wkhtmltopdf](http://wkhtmltopdf.org/) wkhtmltox wkhtmltoimage | Command line tool rendering HTML into PDF and other image formats. | shell, C | LGPLv3 |
 |[WKZombie](https://github.com/mkoehnke/WKZombie) | Functional headless browser (with JSON support) for iOS using WebKit and hpple/libxml2.|Swift| MIT |
 
@@ -99,12 +99,13 @@ Name  | About  | Supported Languages | License
 |[Jaunt](http://jaunt-api.com/) | Java Web Scraping & Automation API|Java| Not specified |
 |[JSDom](https://github.com/tmpvar/jsdom) | A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js. |JavaScript| MIT |
 |[MechanicalSoup](https://github.com/hickford/MechanicalSoup) | A Python library for automating interaction with websites.|Python| MIT |
-|[mechanize](http://wwwsearch.sourceforge.net/mechanize/) | Stateful programmatic web browsing.|Python| BSD-3 clause, ZPL 2.1 |
+|[mechanize](http://wwwsearch.sourceforge.net/mechanize/) | Stateful programmatic web browsing.|Python| BSD 3-Clause, ZPL 2.1 |
 |[node-as-browser](https://github.com/seebigs/node-as-browser) | Create a browser-like environment within Node.js |JavaScript| MIT |
-|[RoboBrowser](https://github.com/jmcarp/robobrowser) | A simple, Pythonic library for browsing the web without a standalone web browser.|Python| BSD-3 clause |
-|[SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) | A flexible and intuitive web browser engine designed for automation tasks. Built on the .Net 4 framework.|.NET| BSD-3 Clause |
+|[RoboBrowser](https://github.com/jmcarp/robobrowser) | A simple, Pythonic library for browsing the web without a standalone web browser.|Python| BSD 3-Clause |
+|[SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) | A flexible and intuitive web browser engine designed for automation tasks. Built on the .Net 4 framework.|.NET| BSD 3-Clause |
 |[stanislaw](https://github.com/teddziuba/stanislaw) | Naive, mechanize-like HTML parser/form driver.|Python| Not specified |
 |[twill](http://twill.idyll.org/) | Twill is a simple language that interacts with basic HTML pages (no JavaScript support).|Python| MIT |
+|[WeasyPrint](http://weasyprint.org/) | WeasyPrint is a visual rendering engine for HTML and CSS that can export to PDF. It aims to support web standards for printing.|Python| BSD 3-Clause |
 |[WWW::Mechanize](https://metacpan.org/search?size=20&q=WWW%3A%3AMechanize&search_type=modules) |  Headless browser for Perl with many plugins and extensions, notably Test::WWW:Mechanize for testing | Perl | Perl 5 |
 |[X-RAY](https://github.com/lapwinglabs/x-ray) | Supports strings, arrays, arrays of objects, nested object structures, selector API, pagination, crawler, concurrency, throttles, delays, timeouts, and pluggable drivers (PhantomJS, HTTP)|JavaScript| MIT |
 |[Xidel (Internet Tools)](http://www.videlibri.de/xidel.html) | An XQuery-based cli web scraper for static X/HTML pages and JSON-APIs. |FreePascal, XQuery| GPL-2|
