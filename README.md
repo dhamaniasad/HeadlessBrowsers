@@ -52,6 +52,7 @@ Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
 |[Awesomium](http://www.awesomium.com/) | Chromium-based headless browser engine|C++, .NET| Free/Commercial |
 |[Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) | Chromium feature activated with the `--headlesss` flag, currently availible in the nightly build of Chromium, not yet released|C++| Opensource |
+|[Chromy](https://github.com/OnetapInc/chromy/) | Features chainable API, mobile emulation, fundamental API such as javascript evaluation. |JavaScript| MIT |
 
 ## Webkit drivers
 
