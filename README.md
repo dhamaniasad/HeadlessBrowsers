@@ -36,6 +36,7 @@ Name  | About  | Supported Languages | License
 
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
+|[DeckTape](https://github.com/astefanutti/decktape) | Automated PDF exporter for HTML presentation frameworks with PhantomJS|JavaScript| MIT |
 |[Ghostbuster](https://github.com/joshbuddy/ghostbuster) | Automated browser testing via phantom.js, with all of the pain taken out! That means you get a real browser, with a real DOM, and can do real testing!|JavaScript| Not specified |
 |[jedi-crawler](https://github.com/spacenick/jedi-crawler) | Lightsabing Node/PhantomJS crawler; scrape dynamic content : without the hassle|JavaScript| Not specified |
 |[Lotte](https://github.com/StanAngeloff/lotte)| Lotte is a headless, automated testing framework built on top of PhantomJS and inspired by Ghostbuster. | JavaScript | MIT |
