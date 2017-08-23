@@ -51,7 +51,7 @@ Name  | About  | Supported Languages | License
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
 |[Awesomium](http://www.awesomium.com/) | Chromium-based headless browser engine|C++, .NET| Free/Commercial |
-|[Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) | Chromium feature activated with the `--headlesss` flag, currently availible in the nightly build of Chromium, not yet released|C++| Opensource |
+|[Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) | Chromium feature activated with the `--headless` flag, currently available in the nightly build of Chromium, not yet released|C++| Opensource |
 
 ## Webkit drivers
 
