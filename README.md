@@ -55,6 +55,7 @@ Name  | About  | Supported Languages | License
 |[Puppeteer](https://github.com/GoogleChrome/puppeteer) | Headless Chrome Node API from the Chrome DevTools team|JavaScript| Apache |
 |[chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) | Chrome Debugging Protocol interface for Node.js|JavaScript| MIT |
 |[Chromy](https://github.com/OnetapInc/chromy) | A library for operating headless chrome.|JavaScript| MIT |
+|[chromedp](https://github.com/knq/chromedp) | A faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc) using the Chrome Debugging Protocol.|Go| MIT |
 
 ## Webkit drivers
 
