@@ -52,6 +52,10 @@ Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
 |[Awesomium](http://www.awesomium.com/) | Chromium-based headless browser engine|C++, .NET| Free/Commercial |
 |[Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) | Chromium feature activated with the `--headlesss` flag, currently availible in the nightly build of Chromium, not yet released|C++| Opensource |
+|[Puppeteer](https://github.com/GoogleChrome/puppeteer) | Headless Chrome Node API from the Chrome DevTools team|JavaScript| Apache |
+|[chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) | Chrome Debugging Protocol interface for Node.js|JavaScript| MIT |
+|[Chromy](https://github.com/OnetapInc/chromy) | A library for operating headless chrome.|JavaScript| MIT |
+|[chromedp](https://github.com/knq/chromedp) | A faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc) using the Chrome Debugging Protocol.|Go| MIT |
 
 ## Webkit drivers
 
