@@ -39,7 +39,6 @@ Name  | About  | Supported Languages | License
 |[Ghostbuster](https://github.com/joshbuddy/ghostbuster) | Automated browser testing via phantom.js, with all of the pain taken out! That means you get a real browser, with a real DOM, and can do real testing!|JavaScript| Not specified |
 |[jedi-crawler](https://github.com/spacenick/jedi-crawler) | Lightsabing Node/PhantomJS crawler; scrape dynamic content : without the hassle|JavaScript| Not specified |
 |[Lotte](https://github.com/StanAngeloff/lotte)| Lotte is a headless, automated testing framework built on top of PhantomJS and inspired by Ghostbuster. | JavaScript | MIT |
-|[Nightmare](http://www.nightmarejs.org/) | Nightmare is a high-level browser automation library built as an easier alternative to PhantomJS.|JavaScript| MIT |
 |[phantompy](https://github.com/niwinz/phantompy) | Phantompy is a headless WebKit engine with powerful pythonic api build on top of Qt5 Webkit|Python| LGPL-2.1 |
 |[X-RAY](https://github.com/lapwinglabs/x-ray) | Supports strings, arrays, arrays of objects, nested object structures, selector API, pagination, crawler, concurrency, throttles, delays, timeouts, and pluggable drivers (PhantomJS, HTTP)|JavaScript| MIT |
 |[Horseman](http://www.horsemanjs.org/) | Promise based Node.js module for PhantomJS. Features chainable API, understandable control-flow, support for multiple tabs, and built-in jQuery.|JavaScript| MIT |
@@ -80,6 +79,7 @@ Name  | About  | Supported Languages | License
 
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
+|[Nightmare](http://www.nightmarejs.org/) | Nightmare is a high-level browser automation library built as an easier alternative to PhantomJS. It runs on the Electron engine. |JavaScript| MIT |
 |[grope](https://github.com/youpy/grope) | A RubyCocoa interface to the macOS WebKit Framework |RubyCocoa| MIT |
 |[SlimerJS](http://slimerjs.org/) | SlimerJS is similar to PhantomJs, except that it runs Gecko, the browser engine of Mozilla Firefox, instead of Webkit (And it is not yet truly headless).|JavaScript| Mozilla 2.0 |
 |[SpecterJS](https://github.com/andyjansson/specterjs) | A scriptable headless Internet Explorer port of PhantomJS. | JavaScript | MIT |
