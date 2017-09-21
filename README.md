@@ -119,7 +119,9 @@ Name  | About  | Supported Languages | License
 
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
-|[DalekJS](http://dalekjs.com/) | Automated cross browser testing with JavaScript.|JavaScript| MIT |
+|[DalekJS](http://dalekjs.com/) | [unmaintained and recommend TestCafé] Automated cross browser testing with JavaScript.|JavaScript| MIT |
+|[TestCafé](https://devexpress.github.io/testcafe/) | Automated browser testing
+for the modern web development stack.|JavaScript| MIT |
 |[Sahi](http://sahipro.com/sahi-open-source/) | Sahi is a cross-browser automation/testing tool with the facility to record and playback scripts.|JavaScript, Java, Ruby, PHP| Apache / Commercial |
 |[WatiN](http://watin.org/) | Web Application Testing In .Net|.NET| Apache 2.0 |
 
