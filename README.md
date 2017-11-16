@@ -55,6 +55,7 @@ Name  | About  | Supported Languages | License
 |[chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) | Chrome Debugging Protocol interface for Node.js|JavaScript| MIT |
 |[Chromy](https://github.com/OnetapInc/chromy/) | Features chainable API, mobile emulation, fundamental API such as javascript evaluation. |JavaScript| MIT |
 |[chromedp](https://github.com/knq/chromedp) | A faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc) using the Chrome Debugging Protocol.|Go| MIT |
+|[Chromeless](https://github.com/graphcool/chromeless) | Chrome automation made simple. Runs locally or headless on AWS Lambda. | JavaScript | MIT |
 
 ## Webkit drivers
 
