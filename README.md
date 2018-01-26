@@ -64,7 +64,7 @@ Name  | About  | Supported Languages | License
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
 |[Browserjet](https://github.com/briankircho/browserjet) | Runs a custom build of webkit, controlled by node.js interface.|JavaScript| Not specified |
-|[ghost.py](http://jeanphix.me/Ghost.py/) | ghost.py is a webkit web client written in python.|Python| MIT |
+|[ghost.py](https://github.com/jeanphix/Ghost.py) | ghost.py is a webkit web client written in python.|Python| MIT |
 |[headless_browser](https://github.com/alexandernst/headless_browser) | Headless browser based on WebKit written in C++.|C++| Not Specified |
 |[Jabba-Webkit](https://github.com/jabbalaci/Jabba-Webkit) | Jabba's headless webkit browser for scraping AJAX-powered webpages.|Python| Not specified |
 |[Jasmine-Headless-Webkit](http://johnbintz.github.io/jasmine-headless-webkit/) | jasmine-headless-webkit uses the QtWebKit widget to run your specs without needing to render a pixel.|Python, JavaScript, Ruby| Free |
