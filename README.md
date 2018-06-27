@@ -52,6 +52,7 @@ Name  | About  | Supported Languages | License
 |[Awesomium](http://www.awesomium.com/) | Chromium-based headless browser engine|C++, .NET| Free/Commercial |
 |[Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) | Chromium feature activated with the `--headlesss` flag, currently availible in the nightly build of Chromium, not yet released|C++| Opensource |
 |[Puppeteer](https://github.com/GoogleChrome/puppeteer) | Headless Chrome Node API from the Chrome DevTools team|JavaScript| Apache |
+|[PuppeteerSharp](https://github.com/kblok/puppeteer-sharp) | PuppeteerSharp is a .NET port of the official Headless Chrome Node.JS Puppeteer API|.NET| MIT |
 |[chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) | Chrome Debugging Protocol interface for Node.js|JavaScript| MIT |
 |[Chromy](https://github.com/OnetapInc/chromy/) | Features chainable API, mobile emulation, fundamental API such as javascript evaluation. |JavaScript| MIT |
 |[chromedp](https://github.com/knq/chromedp) | A faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc) using the Chrome Debugging Protocol.|Go| MIT |
@@ -94,6 +95,7 @@ Name  | About  | Supported Languages | License
 |Name  | About  | Supported Languages | License
 |:------------ |:---------------| :----- | :-----------
 |[AngleSharp](https://github.com/AngleSharp/AngleSharp) | .Net Http Parsing Library | .NET | MIT |
+|[Guillotine](https://github.com/pszyller/Guillotine) | A .NET headless browser, written in C# | .NET | LGPL-3.0 |
 |[benv](https://github.com/artsy/benv) | Stub a browser environment in node.js and headlessly test your client-side code.|JavaScript| MIT |
 |[browser.rb](https://github.com/tmp8/browser-rb) | Headless Ruby browser on top of Nokogiri and TheRubyRacer|Ruby| Not specified |
 |[BrowserKit](https://github.com/symfony/browser-kit) | BrowserKit simulates the behavior of a web browser.|PHP| MIT |
