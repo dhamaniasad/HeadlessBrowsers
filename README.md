@@ -101,7 +101,7 @@ Name  | About  | Supported Languages | License
 |[Headless](https://github.com/roryprimrose/Headless) | Headless browser support for fast web acceptance testing in .Net|.NET| MIT |
 |[HeadlessBrowser](https://github.com/clubajax/HeadlessBrowser) | A very miniature headless browser, for testing the DOM on Node.js|JavaScript| Not specified |
 |[HtmlUnit](http://htmlunit.sourceforge.net/) | HtmlUnit is a "GUI-Less browser for Java programs".|Java| Apache |
-|[Jaunt](http://jaunt-api.com/) | Java Web Scraping & Automation API|Java| Not specified |
+|[Jaunt](http://jaunt-api.com/) | Java Web Scraping & Automation API|Java| Apache (monthly edition)|
 |[JSDom](https://github.com/tmpvar/jsdom) | A JavaScript implementation of the WHATWG DOM and HTML standards, for use with Node.js. |JavaScript| MIT |
 |[MechanicalSoup](https://github.com/hickford/MechanicalSoup) | A Python library for automating interaction with websites.|Python| MIT |
 |[mechanize](http://wwwsearch.sourceforge.net/mechanize/) | Stateful programmatic web browsing.|Python| BSD 3-Clause, ZPL 2.1 |
