@@ -58,6 +58,8 @@ Name  | About  | Supported Languages | License
 |[chromedp](https://github.com/knq/chromedp) | A faster, simpler way to drive browsers (Chrome, Edge, Safari, Android, etc) without external dependencies (ie, Selenium, PhantomJS, etc) using the Chrome Debugging Protocol.|Go| MIT |
 |[Chromeless](https://github.com/graphcool/chromeless) | Chrome automation made simple. Runs locally or headless on AWS Lambda. | JavaScript | MIT |
 |[Chrome PHP](https://github.com/chrome-php/headless-chromium-php) | PHP API to drive Chromium or Google Chrome via the Chrome Devtools Protocole. | PHP | Fair |
+|[cdp4j](https://github.com/webfolderio/cdp4j) | A web-automation library for Java. It can be used for automating the use of web pages and for testing web pages. It use Google Chrome DevTools Protocol to automate Chrome/Chromium based browsers. | Java | 
+cdp4j Commercial License |
 
 ## Webkit drivers
 
