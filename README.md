@@ -16,6 +16,7 @@ Name  | About  | Supported Languages | License
 |[jBrowserDriver](https://github.com/machinepublishers/jbrowserdriver) | A Selenium-compatible headless browser which is written in pure Java. WebKit-based. Works with any of the Selenium Server bindings.|Java| Apache License v2.0 |
 |[PhantomJS](http://phantomjs.org/) | [[Unmaintained]](https://groups.google.com/forum/#!topic/phantomjs/9aI5d-LDuNE) PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG. | JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R(via [Selenium](http://docs.seleniumhq.org/about/platforms.jsp#programming-languages))  | BSD 3-Clause |
 |[Splash](https://github.com/scrapinghub/splash) | Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python using Twisted and QT.|Any| BSD 3-Clause |
+|[Surf](https://github.com/headzoo/surf)|Surf is an open source project that implements a virtual web browser that can be controlled programatically | Go | MIT
 
 ## Multi drivers
 
