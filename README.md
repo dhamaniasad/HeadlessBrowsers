@@ -23,7 +23,7 @@ Name  | About  | Supported Languages | License
 
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
-|[CasperJS](http://casperjs.org/) | CasperJS is an open source navigation scripting & testing utility written in Javascript for the PhantomJS WebKit headless browser and SlimerJS (Gecko).        |   JavaScript | MIT |
+|[CasperJS](http://casperjs.org/) | [[Unmaintained]](https://github.com/casperjs/casperjs) CasperJS is an open source navigation scripting & testing utility written in Javascript for the PhantomJS WebKit headless browser and SlimerJS (Gecko).        |   JavaScript | MIT |
 |[Geb](http://www.gebish.org/) | Geb is a Groovy interface to WebDriver.|Groovy| Apache |
 |[Playwright](https://github.com/microsoft/playwright) | Playwright is a Node library to automate the Chromium, WebKit and Firefox browsers with a single API |TypeScript| Apache |
 |[Selenium](http://seleniumhq.org) | Selenium is a suite of tools to automate web browsers across many platforms.|JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R| Apache |
