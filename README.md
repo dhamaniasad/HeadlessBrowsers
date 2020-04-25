@@ -84,6 +84,7 @@ Name  | About  | Supported Languages | License
 
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
+|[Cypress](https://www.cypress.io/) | Cypress supports end-to-end, integration and unit tests and makes debugging tests simple. Default engine is headless Electron. |JavaScript| MIT |
 |[Nightmare](http://www.nightmarejs.org/) | Nightmare is a high-level browser automation library built as an easier alternative to PhantomJS. It runs on the Electron engine. |JavaScript| MIT |
 |[grope](https://github.com/youpy/grope) | A RubyCocoa interface to the macOS WebKit Framework |RubyCocoa| MIT |
 |[SlimerJS](http://slimerjs.org/) | SlimerJS is similar to PhantomJs, except that it runs Gecko, the browser engine of Mozilla Firefox, instead of Webkit (And it is not yet truly headless).|JavaScript| Mozilla 2.0 |
