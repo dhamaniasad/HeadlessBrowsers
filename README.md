@@ -61,6 +61,7 @@ Name  | About  | Supported Languages | License
 |[Chromeless](https://github.com/graphcool/chromeless) | Chrome automation made simple. Runs locally or headless on AWS Lambda. | JavaScript | MIT |
 |[Chrome PHP](https://github.com/chrome-php/headless-chromium-php) | PHP API to drive Chromium or Google Chrome via the Chrome Devtools Protocole. | PHP | Fair |
 |[Wendigo](https://github.com/angrykoala/wendigo) | Test-oriented browser automation library using Puppeteer. | JavaScript | GPL-3.0 | 
+|[cdp4j](https://github.com/webfolderio/cdp4j) | A web-automation library for Java. It can be used for automating the use of web pages and for testing web pages. It use Google Chrome DevTools Protocol to automate Chrome/Chromium based browsers. | Java | cdp4j Commercial License |
 
 ## Webkit drivers
 
