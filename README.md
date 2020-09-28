@@ -30,7 +30,6 @@ Name  | About  | Supported Languages | License
 |[Selenium](http://seleniumhq.org) | Selenium is a suite of tools to automate web browsers across many platforms.|JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R| Apache |
 |[Splinter](https://splinter.readthedocs.io/en/latest/) | Splinter is an open source tool for testing web applications using Python. It lets you automate browser actions, such as visiting URLs and interacting with their items.|Python| - |
 |[SST](https://pypi.python.org/pypi/sst/0.2.4) | SST (selenium-simple-test) is a web test framework that uses Python to generate functional browser-based tests.|Python| - |
-|[Watir](https://watir.com/) | The most elegant way to use Selenium WebDriver with ruby.|Ruby| MIT |
 
 ## PhantomJS drivers
 
