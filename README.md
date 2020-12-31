@@ -63,6 +63,7 @@ Name  | About  | Supported Languages | License
 |[Wendigo](https://github.com/angrykoala/wendigo) | Test-oriented browser automation library using Puppeteer. | JavaScript | GPL-3.0 | 
 |[cdp4j](https://github.com/webfolderio/cdp4j) | A web-automation library for Java. It can be used for automating the use of web pages and for testing web pages. It use Google Chrome DevTools Protocol to automate Chrome/Chromium based browsers. | Java | cdp4j Commercial License |
 |[Pyppeteer](https://github.com/pyppeteer/pyppeteer) | Python port of puppeteer JavaScript (headless) chrome/chromium browser automation library | Python | MIT |
+|[Headless Chrome](https://github.com/atroche/rust-headless-chrome) | A high-level API to control headless Chrome or Chromium over the DevTools Protocol. | Rust | None
 
 ## Webkit drivers
 
