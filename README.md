@@ -142,3 +142,4 @@ Name  | About  | Supported Languages | License
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
 |[browser-launcher](https://github.com/substack/browser-launcher) | Detect and launch browser versions, headlessly or otherwise|JavaScript| MIT |
+|[Headless Recorder](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda) | Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script |JavaScript| MIT |
