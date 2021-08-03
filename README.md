@@ -143,3 +143,5 @@ Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
 |[browser-launcher](https://github.com/substack/browser-launcher) | Detect and launch browser versions, headlessly or otherwise|JavaScript| MIT |
 |[Headless Recorder](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda) | Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script |JavaScript| MIT |
+|[ViewFinder](https://github.com/i5ik/ViewFinder) | Put a head on headless browsers: a browser interface for Chrome headless. Let's you inspect and interact with running automations, as well as do remote browser isolation. | Node.JS | GPL-3.0 |
+
