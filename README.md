@@ -31,7 +31,7 @@ Name  | About  | Supported Languages | License
 |[playwright-python](https://github.com/microsoft/playwright-python) | Playwright for Python is a library to automate Chromium, Firefox and WebKit browsers with a single API. |Python| Apache |
 |[playwright-java](https://github.com/microsoft/playwright-java) | Playwright for Java is a library to automate Chromium, Firefox and WebKit browsers with a single API. |Java| Apache |
 |[playwright-go](https://github.com/mxschmitt/playwright-go) | Playwright for Go is a library to automate Chromium, Firefox and WebKit browsers with a single API. |Go| MIT |
-|[Selenium](http://seleniumhq.org) | Selenium is a suite of tools to automate web browsers across many platforms.|JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R| Apache |
+|[Selenium](http://seleniumhq.org) | Selenium is a suite of tools to automate web browsers across many platforms.|JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R, C++| Apache |
 |[Splinter](https://splinter.readthedocs.io/en/latest/) | Splinter is an open source tool for testing web applications using Python. It lets you automate browser actions, such as visiting URLs and interacting with their items.|Python| - |
 |[SST](https://pypi.python.org/pypi/sst/0.2.4) | SST (selenium-simple-test) is a web test framework that uses Python to generate functional browser-based tests.|Python| - |
 |[Watir](https://github.com/watir/watir) | The most elegant way to use Selenium WebDriver with Ruby.|Ruby| MIT |
