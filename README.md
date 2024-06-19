@@ -5,6 +5,10 @@ Headless Browsers
 
 *A web browser without a graphical user interface, controlled programmatically. Used for automation, testing, and other purposes.*
 
+<div align="center">
+  <a href="https://www.browserbase.com">Sponsored by 🅱️ Browserbase: Hosted Headless Web Browsers with built-in session recording, auto-scaling, proxies and captcha solving.<br/> Compatible with Puppeteer, Playwright, and Selenium.</a>
+</div>
+
 ## Browser engines
 
 *These browser engines fully render web pages or run JavaScript in a virtual DOM*
