@@ -9,6 +9,12 @@ Headless Browsers
   Sponsored by <a href="https://www.browserbase.com">🅱️ Browserbase</a>: Hosted Headless Web Browsers with built-in session recording, auto-scaling, proxies and captcha solving.<br/> Compatible with Puppeteer, Playwright, and Selenium.
 </div>
 
+<br/>
+
+<div align="center">
+  Experience unstoppable data extraction with <a href="https://brightdata.com/products/scraping-browser">Bright Data’s Scraping Browser</a>. Bypass blocks, handle JavaScript effortlessly, and power up your automation at scale. Start your free trial now!
+</div>
+
 ## Browser engines
 
 *These browser engines fully render web pages or run JavaScript in a virtual DOM*
