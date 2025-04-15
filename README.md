@@ -151,7 +151,10 @@ Name  | About  | Supported Languages | License
 
 ## Misc tools
 
+
+
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
 |[browser-launcher](https://github.com/substack/browser-launcher) | Detect and launch browser versions, headlessly or otherwise|JavaScript| MIT |
 |[Headless Recorder](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda) | Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script |JavaScript| MIT |
+|[Locate app](https://www.npmjs.com/package/locate-app) | Find applications installed on your system. This library will help you to find executables of a known application like Chrome, Firefox,... on Windows, Linux and MacOS out of the box. |Typescript| Apache-2.0 |
