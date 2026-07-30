@@ -13,6 +13,7 @@ Headless Browsers
 
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
+|[Browserless](https://github.com/browserless/browserless) | Self-hostable open-source service that exposes headless Chrome over a WebSocket and HTTP API, letting Puppeteer and Playwright connect to remote browsers, with REST endpoints for scraping, screenshots, and PDFs. Also offered as a hosted API. |JavaScript, Python, others (via Puppeteer & Playwright bindings)| SSPL-1.0 / Commercial |
 |[Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef) |CEF is a open source project based on the Google Chromium project.        |   JavaScript | BSD |
 |[Erik](https://github.com/phimage/Erik) | Headless browser on top of Kanna and WebKit.|Swift| MIT |
 |[jBrowserDriver](https://github.com/machinepublishers/jbrowserdriver) | A Selenium-compatible headless browser which is written in pure Java. WebKit-based. Works with any of the Selenium Server bindings.|Java| Apache License v2.0 |
