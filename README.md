@@ -100,6 +100,7 @@ Name  | About  | Supported Languages | License
 |[SlimerJS](http://slimerjs.org/) | SlimerJS is similar to PhantomJs, except that it runs Gecko, the browser engine of Mozilla Firefox, instead of Webkit (And it is not yet truly headless).|JavaScript| Mozilla 2.0 |
 |[SpecterJS](https://github.com/andyjansson/specterjs) | A scriptable headless Internet Explorer port of PhantomJS. | JavaScript | MIT |
 |[trifleJS](http://triflejs.org/) | A headless Internet Explorer browser using the .NET WebBrowser Class with a Javascript API running on the V8 engine.|JavaScript| MIT |
+|[AIHawk](https://github.com/feder-cr/AIHawk) | An open-source AI browser agent that drives a stealth-patched Firefox engine from plain-English instructions, available as an MCP server (installed via uvx aihawk) for Claude Code, Codex and Gemini CLI, plus a standalone web UI. | Python | MIT |
 
 
 ## Fake Browser Engine
