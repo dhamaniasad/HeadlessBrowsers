@@ -70,6 +70,7 @@ Name  | About  | Supported Languages | License
 |[cdp4j](https://github.com/safrizal/cdp4j) | A web-automation library for Java. It can be used for automating the use of web pages and for testing web pages. It use Google Chrome DevTools Protocol to automate Chrome/Chromium based browsers. | Java | cdp4j Commercial License |
 |[Pyppeteer](https://github.com/pyppeteer/pyppeteer) | Python port of puppeteer JavaScript (headless) chrome/chromium browser automation library | Python | MIT |
 |[Headless Chrome](https://github.com/atroche/rust-headless-chrome) | A high-level API to control headless Chrome or Chromium over the DevTools Protocol. | Rust | None
+|[Hexium Browser](https://github.com/HeadlessXLabs/hexium-browser) | Playwright Python wrapper for patched Chromium 151 (C++ personas). Linux x86_64 alpha. |Python| AGPL-3.0 |
 
 ## Webkit drivers
 
