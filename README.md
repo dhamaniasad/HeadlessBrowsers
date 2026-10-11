@@ -82,6 +82,7 @@ Name  | About  | Supported Languages | License
 |[headless_browser](https://github.com/alexandernst/headless_browser) | Headless browser based on WebKit written in C++.|C++| Not Specified |
 |[Jabba-Webkit](https://github.com/jabbalaci/Jabba-Webkit) | Jabba's headless webkit browser for scraping AJAX-powered webpages.|Python| Not specified |
 |[Jasmine-Headless-Webkit](http://johnbintz.github.io/jasmine-headless-webkit/) | jasmine-headless-webkit uses the QtWebKit widget to run your specs without needing to render a pixel.|Python, JavaScript, Ruby| Free |
+|[Jet Browser](https://github.com/masakaai/jet-browser) | Portable WPE WebKit runtime for isolated browser sessions with native input, text, screenshots, ordered JSONL, and MCP control.|JavaScript, Rust, Any (JSONL/MCP)| Apache-2.0 |
 |[Python-Webkit](http://www.gnu.org/software/pythonwebkit/) | Python-Webkit is a python extension to Webkit to add full, complete access to Webkit's DOM|Python| GNU |
 |[Spynner](https://github.com/makinacorpus/spynner) | Programmatic web browsing module with AJAX support for Python|Python| Not specified |
 |[Webloop](https://github.com/sourcegraph/webloop) | Scriptable, headless WebKit with a Go API. | Go | BSD 3-Clause |
