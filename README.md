@@ -146,4 +146,5 @@ Name  | About  | Supported Languages | License
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
 |[browser-launcher](https://github.com/substack/browser-launcher) | Detect and launch browser versions, headlessly or otherwise|JavaScript| MIT |
+|[CurlShot](https://curlshot.com) | Hosted screenshot API that runs headless Chromium for you: one HTTP request returns a PNG, JPEG, WebP, PDF or scrolling video of any URL, HTML or Markdown. Free plan with 100 screenshots a month |Any (HTTP)| Proprietary |
 |[Headless Recorder](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda) | Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script |JavaScript| MIT |
